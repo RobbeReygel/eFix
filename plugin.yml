@@ -1,0 +1,7 @@
+name: eFix
+main: com.ruthlessdev.efix.Main
+autor: Ruthless_Slayer
+version: 1.0
+commands:
+  efix:
+    description: Fixes all Enderpearl problems!
